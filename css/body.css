@@ -169,20 +169,4 @@ nav a:hover {
 }
 /********** Components *********/
 
-.button:link, .button:visited {
-    color: white;
-    background-color: #9abcf8;
-    text-align: center;
-    text-decoration: none;
-    padding: 1rem 1.75rem;
-    border-radius: 0.5em;
-    box-shadow: 0 .125rem .5rem rgba(0, 0, 0, .15);
-    display: inline-block;
-    margin: 0 .25rem .25rem 0;
-    transition: background-color 0.5s ease;
-}
-.button:hover {
-    background-color: #4d5f7e;
-
-
     
